@@ -1,7 +1,7 @@
-// src/main/java/br/com/controledegastos/model/Lancamento.java
 package br.com.controledegastos.model;
 
 import jakarta.persistence.*;
+
 import java.math.BigDecimal;
 import java.time.LocalDate;
 

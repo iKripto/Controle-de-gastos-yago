@@ -1,5 +1,4 @@
-// src/main/java/br/com/controledegastos/repository/LancamentoRepository.java
-package br.com.controledegastos.repository;
+package br.com.controledegastos.Repository;
 
 import br.com.controledegastos.model.Lancamento;
 import org.springframework.data.jpa.repository.JpaRepository;
