@@ -25,7 +25,7 @@ O projeto demonstra como o Spring Boot pode ser utilizado para criar uma aplica�
 
 ---
 
-### **Como Executar o Projeto Localmente**
+### **Como Executar o Projeto**
 
 Para rodar este projeto em sua máquina, basta simplesmente acessar:
 https://controle-de-gastos-yago.onrender.com/
@@ -47,3 +47,4 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 ### **Licença**
 
 Este projeto está licenciado sob a Licença MIT.
+
